@@ -13,4 +13,8 @@ Higher Speed: BLDC motors can reach higher rotational speeds than conventional D
 
 Precise Control: The speed and torque of the motor can be better controlled using electronic control technology, making it suitable for applications that require precision control such as drones or electric cars.
 
-* This Advantages will help us to control the movment because we will need a high speed and high control  
+* This Advantages will help us to control the movment because we will need a high speed and high control
+
+*resoures help me :
+https://www.renesas.com/us/en/support/engineer-school/brushless-dc-motor-01-overview
+
