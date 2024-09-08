@@ -2,7 +2,7 @@
 Select_Motors
 
 1-Movement Motors are selected by omar ahmed
-the motor selcted is Brushless DC motors 
+the motor selcted is **Brushless** DC motors 
 
 # **BLDC Advantages**:
 High Efficiency: Because the motor has no brushes, internal friction is much lower, increasing energy efficiency.
