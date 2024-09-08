@@ -4,7 +4,7 @@ Select_Motors
 1-Movement Motors are selected by omar ahmed
 the motor selcted is Brushless DC motors 
 
-BLDC Advantages:
+# **BLDC Advantages**:
 High Efficiency: Because the motor has no brushes, internal friction is much lower, increasing energy efficiency.
 
 Longer Lifespan: The lack of brushes means there are fewer parts to wear out over time, increasing the life of the motor.
@@ -15,6 +15,6 @@ Precise Control: The speed and torque of the motor can be better controlled usin
 
 * This Advantages will help us to control the movment because we will need a high speed and high control
 
-*resoures help me :
+# **resoures help me** :
 https://www.renesas.com/us/en/support/engineer-school/brushless-dc-motor-01-overview
 
