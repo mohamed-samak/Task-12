@@ -24,6 +24,12 @@ Servo motors are easier to control compared to stepper motors, as they use PWM s
 
 ### The most prefered type of servo motor is the **continuous rotation**, this type does not have a limit on its range of motion. The limitless motion of these motors enables them to move in both CW, and CCW directions, which will be needed for continuous adjustments to control the ball
 
+### Price of the Servo motor:
+It depends on the speed and the torque the servo motor can perform
+
+In our case it won't cost much
+Micro Servo (e.g., SG90): Low torque (~2-3 kg-cm) and small size, suitable for lightweight objects, such as the ball used for the task.
+
 # Resources That Helped Me:
 https://islproducts.com/design-note/servo-motor-fundamentals/
 https://www.kollmorgen.com/en-us/resources/technologies-explained/motors/what-is-a-servo-motor
