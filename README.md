@@ -1,7 +1,9 @@
 # Task-12.2
 select motors
 2- Dribbling Motors selected by Mahmoud Sameh
+
 The selected motor is **Servo Motor**
+
 servo motor would be a suitable solution for this task
 
 ## Advantages:
