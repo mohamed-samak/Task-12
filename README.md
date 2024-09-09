@@ -21,7 +21,8 @@ Depending on the size and power of the servo, you can get a change in speed and 
 ### 4-Simple Control:
 Servo motors are easier to control compared to stepper motors, as they use PWM signals to command the position and speed. For basic dribbling applications where position control is critical, they can work well.
 
-The most prefered type of servo motor is the continuous rotation, this type does not have a limit on its range of motion. The limitless motion of these motors enables them to move in both CW, and CCW directions, which will be needed for continuous adjustments to control the ball
+
+### The most prefered type of servo motor is the **continuous rotation**, this type does not have a limit on its range of motion. The limitless motion of these motors enables them to move in both CW, and CCW directions, which will be needed for continuous adjustments to control the ball
 
 # Resources That Helped Me:
 https://islproducts.com/design-note/servo-motor-fundamentals/
