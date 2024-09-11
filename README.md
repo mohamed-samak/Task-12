@@ -42,7 +42,7 @@ Servo motors are easier to control compared to stepper motors, as they use PWM s
 ### The most prefered type of servo motor is the **continuous rotation**, this type does not have a limit on i
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-3-Shooting and Passing selected by mohamed yasser
+ # 3-Shooting and Passing selected by mohamed yasser
 In robocoon 2025, the robots are asked to play a basket ball match of two.
 The dimensions of the field are 15m,8m and the height of the basket is 2.5m.
 so we need a roobot that can launch the ball more than 2.5m in air.
